@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @azuzdev
+- 👀 I’m pythonist
+- 🌱 I’m currently learning python
